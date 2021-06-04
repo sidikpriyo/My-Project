@@ -1,1 +1,1 @@
-Aplikasi Bank Sampah Sederhana menggunakan codeiginter 3
+Aplikasi Bank Sampah Sederhana menggunakan codeigniter3
